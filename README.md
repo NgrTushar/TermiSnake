@@ -13,8 +13,8 @@ Ensure you have Rust installed on your system. If not, install Rust using [Rustu
 
 Clone this repository and navigate into the project directory:
 ```sh
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/NgrTushar/TermiSnake.git
+cd TermiSnake
 ```
 
 ## Usage
